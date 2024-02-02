@@ -1,2 +1,0 @@
-username = kingkong121
-passcode = shelly24
