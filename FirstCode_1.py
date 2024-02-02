@@ -1,3 +1,3 @@
 print('Hello World')
-print('Hello World, modifying committed file')
-print('Hello World, 3rd modification')
+print('Hello World, 2nd modification, line two')
+print('Hello World, line three for 3rd modification')
